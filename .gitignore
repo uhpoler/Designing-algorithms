@@ -1,0 +1,10 @@
+*.d
+
+/.idea
+/lab1.idea
+/lab2.idea
+/lab3.idea
+/lab4.idea
+/lab5.idea
+/.vs/
+
