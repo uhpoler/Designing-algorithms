@@ -1,10 +1,16 @@
 *.d
 
 /.idea
-/lab1.idea
-/lab2.idea
-/lab3.idea
-/lab4.idea
-/lab5.idea
+/lab1/.idea
+/lab2/.idea
+/lab3/.idea
+/lab4/.idea
+/lab5/.idea
+/lab1/venv
+/lab2/venv
+/lab3/venv
+/lab4/venv
+/lab5/venv
 /.vs/
+
 
